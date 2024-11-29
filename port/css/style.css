@@ -1,0 +1,59 @@
+@font-face{
+    font-family: Sora-Bold;
+    src: url(../font/Sora/static/Sora-Bold.ttf);
+}
+
+
+.header{
+    display: flex;
+}
+.header{
+    display: flex;
+}
+.header__2{
+    margin-top: 55px;
+    margin-left: 178px;
+    width: 223px;
+    height: 296px;
+}
+.header__3{
+    margin-left: 431px;
+    width: 200px;
+    height: 158px;
+    margin-top: -310px;
+}
+.header__4{
+    width: 251px;
+    height: 155px;
+    margin-left: 1280px;
+    margin-top: -360px;
+}
+.header__5{
+    width: 251px;
+    height: 155px;
+    margin-left: 1560px;
+    margin-top: -500px;
+}
+.header__6{
+    width: 251px;
+    height: 155px;
+    margin-left: 1280px;
+}
+.header__7{
+    width: 251px;
+    height: 155px;
+    margin-left: 1560px;
+    margin-top: -400px;
+}
+.header__h{
+    margin-left: 750px;
+}
+.header__f{
+    margin-left: 0px;
+}
+.header__t{
+    margin-left: 940px;
+    margin-top: -60px;
+}
+
+    
